@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\obj\Debug\RSA_laba.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\obj\Debug\RSA_laba.Form1.resources
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\obj\Debug\RSA_laba.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\obj\Debug\RSA_laba.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\obj\Debug\RSA_laba.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\bin\Debug\RSA_laba.exe.config
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\bin\Debug\RSA_laba.exe
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\bin\Debug\RSA_laba.pdb
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\obj\Debug\RSA_laba.exe
+C:\Users\Пользователь\source\repos\RSA_laba\RSA_laba\obj\Debug\RSA_laba.pdb
